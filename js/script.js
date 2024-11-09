@@ -1,0 +1,1 @@
+alert('i - gnow - verre - u - liwe - gime - your - cwedit - cawd')
